@@ -4,3 +4,6 @@ I am an MS research scholar in the department of Computer Science & Engineering,
 ## Projects
 1. Stance detection in web and social media : A comparative study
 2. Identifying multidimensional information from microblogs during epidemics
+
+## Contact
+You can connect me in gmail : shalmolighosh94@gmail.com
