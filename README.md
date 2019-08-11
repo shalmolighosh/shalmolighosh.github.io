@@ -6,5 +6,8 @@ I am an MS research scholar in the department of Computer Science & Engineering,
 
 2. Shalmoli Ghosh, Koustav Rudra, Saptarshi Ghosh, Niloy Ganguly, Sanjay Podder, Naveen Balani, Neville Dubash. Identifying Multi-dimensional Information from Microblogs During Epidemics. ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD), Kolkata, India, pp. 224-230, January 2019. [PDF](https://drive.google.com/file/d/1g8QyHZHzxXs54b8me6zgaGVrEAGLIADC/view)
 
+To know more about me, here is my [resume] (https://drive.google.com/open?id=1v7yzSLdwqGd44RrRDUQbGiR1Ql7-7YW8)
+
 ## Contact
 You can connect me in gmail : shalmolighosh94@gmail.com
+
