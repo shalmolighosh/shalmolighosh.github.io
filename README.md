@@ -9,7 +9,7 @@ I am [Shalmoli Ghosh](in.linkedin.com/in/shalmoli-ghosh-1a81749b) PhD student in
 2. Anurag Roy, Shalmoli Ghosh, Kripabandhu Ghosh, Saptarshi Ghosh. An Unsupervised Normalization Algorithm for Noisy Text: A Case Study
 for Information Retrieval and Stance Detection. Journal of Data and Information Quality (JDIQ), 13(3):1–25, 2021. [PAPER](https://dl.acm.org/doi/10.1145/3418036)
 
-3. Shalmoli Ghosh, Prajwal Singhania, Siddharth Singh, Koustav Rudra, Saptarshi Ghosh. Stance Detection in Web and Social Media: A Comparative Study, Conference and Labs of the Evaluation Forum (CLEF), Lugano, Switzerland, September 2019 [to appear] [codes](https://github.com/prajwal1210/BTP-Codes)
+3. Shalmoli Ghosh, Prajwal Singhania, Siddharth Singh, Koustav Rudra, Saptarshi Ghosh. Stance Detection in Web and Social Media: A Comparative Study, Conference and Labs of the Evaluation Forum (CLEF), Lugano, Switzerland, September 2019 [PAPER](https://link.springer.com/chapter/10.1007/978-3-030-28577-7_4) [codes](https://github.com/prajwal1210/BTP-Codes)
 
 4. Shalmoli Ghosh, Koustav Rudra, Saptarshi Ghosh, Niloy Ganguly, Sanjay Podder, Naveen Balani, Neville Dubash. Identifying Multi-dimensional Information from Microblogs During Epidemics. ACM India Joint International Conference on Data Science and Management of Data (CoDS-COMAD), Kolkata, India, pp. 224-230, January 2019. [PDF](https://drive.google.com/file/d/1g8QyHZHzxXs54b8me6zgaGVrEAGLIADC/view)
 
